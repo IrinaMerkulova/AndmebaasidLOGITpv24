@@ -3,6 +3,7 @@ Create Database LOGITpv24baas;
 --ab kustutamine
 DROP Database veebipood2;
 
+
 USE LOGITpv24baas;
 CREATE TABLE tootaja(
 tootajaID int PRIMARY KEY identity(1,1), --identity - automaatselt kasvav arv +1
