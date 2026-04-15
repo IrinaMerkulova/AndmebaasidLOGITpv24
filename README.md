@@ -4,6 +4,7 @@ andmebaaside haldusega seotud sql kood ja konspektid
 ## Sisukord
 - [Põhimõisted](#põhimõisted)
 - [Piirangud](#piirangud)
+- [Andmetüübid](#andmetüübid)
 
 ## Põhimõisted
 - Andmebaasi haldussüsteemid - tarkvara, millega abil saab luua andmebaas (mariaDB - XAMPP, SQL Server - SQL Server Management Studio (Server Name - (localdb)\MSSQLLocalDB))
