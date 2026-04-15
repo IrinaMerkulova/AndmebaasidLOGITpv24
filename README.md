@@ -1,6 +1,10 @@
 ## AndmebaasidLOGITpv24
 andmebaaside haldusega seotud sql kood ja konspektid
 
+## Sisukord
+- [Põhimõisted](#põhimõisted)
+- [Piirangud](#piirangud)
+
 ## Põhimõisted
 - Andmebaasi haldussüsteemid - tarkvara, millega abil saab luua andmebaas (mariaDB - XAMPP, SQL Server - SQL Server Management Studio (Server Name - (localdb)\MSSQLLocalDB))
 - Andmebaas - struktureeritud andmete kogum
@@ -16,7 +20,8 @@ andmebaaside haldusega seotud sql kood ja konspektid
 1. DDL - Data Definition Language
 2. DML - Data Manipulation Language
 
-   ## Piirangud - ограничения - CONSTRAINT (5)
+   ## Piirangud
+   - ограничения - CONSTRAINT (5)
    1. PRIMARY KEY
    2. NOT NULL
    3. CHECK - valik
@@ -30,3 +35,10 @@ andmebaaside haldusega seotud sql kood ja konspektid
    3. date, time, datetime - kuupäeva
    4. boolean, bit, bool - loogilised
    ```
+## Tabelivahelised seosed
+- üks-ühele (nt naine-mees)
+- üks-mitmele (nt naine-lapsed) <img width="525" height="246" alt="{F53CB300-386A-46D2-B084-D6DFE2CD9C21}" src="https://github.com/user-attachments/assets/abf421af-bbf2-43c0-871d-ca3c19395320" />
+
+- mitme-mitmele (õpilased-tunnid)
+
+   
