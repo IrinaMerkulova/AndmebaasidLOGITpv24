@@ -41,5 +41,8 @@ andmebaaside haldusega seotud sql kood ja konspektid
 - üks-mitmele (nt naine-lapsed) <img width="525" height="246" alt="{F53CB300-386A-46D2-B084-D6DFE2CD9C21}" src="https://github.com/user-attachments/assets/abf421af-bbf2-43c0-871d-ca3c19395320" />
 
 - mitme-mitmele (õpilased-tunnid)
+  
+## ALTER TABLE - tabelii struktuuri muutmine
+1. uue veeru lisamine
 
    
