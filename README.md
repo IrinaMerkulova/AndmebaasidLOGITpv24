@@ -1,6 +1,6 @@
 ## Andmebaaside ÕPETAJA konspektid
 
-[Põhimõisted](README.md) | [Kasutajad](kasutaja.md) | [Trigerid](triger.md) | [Protseduurid](protseduurid.md) | [Võtmed/Keys].(kodutoo.md)
+[Põhimõisted](README.md) | [Kasutajad](kasutaja.md) | [Trigerid](triger.md) | [Protseduurid](protseduurid.md) | [Võtmed/Keys](kodutoo.md)
 
  - andmebaaside haldusega seotud sql kood ja konspektid
 
