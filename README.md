@@ -1,5 +1,8 @@
-## AndmebaasidLOGITpv24
-andmebaaside haldusega seotud sql kood ja konspektid
+## Andmebaaside ÕPETAJA konspektid
+
+[Põhimõisted](README.md) | [Kasutajad](kasutaja.md) | [Trigerid](triger.md) | [Protseduurid](protseduurid.md) | [Võtmed/Keys].(kodutoo.md)
+
+ - andmebaaside haldusega seotud sql kood ja konspektid
 
 ## Sisukord
 - [Põhimõisted](#põhimõisted)
